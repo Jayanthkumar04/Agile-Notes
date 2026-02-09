@@ -1,0 +1,104 @@
+Stages in SDLC
+
+Requrierements Gathering ==> Design(low and high level) ==> Coding ==> Testing ==> Deploy(release )==> maintanince
+
+==============================
+DIFFERENT TYPES OF SDLC MODEL
+==============================
+1)waterfall model
+2)prototype
+3)v model
+4)rad model
+5)Sprial model
+6)Agile model
+
+
+==========
+AGILE
+1)The methodology which follows iterative and incremental approach
+================
+Agile Principles
+================
+1)Customer no need to wait for longtime
+2)We develop and test and release as a piece of s/w to customer with few number of features
+3)we can accept/accomodate the requriement changes
+4)good communication between business analyst,tester,developer and customer
+
+====
+ex
+===
+1)100 requriements 
+   ==>in spring 1 10 requriemtns done and like wayy
+
+====================
+Advantages of AGILE
+=====================
+1)requirement changes are allowed or accomodated in any stage of development
+2)Release will be very fast (Weekly 1-4)
+3)Good communication is maintained between team
+
+=====================
+Disadvantages
+=====================
+1)Less Design and documentation
+======
+SCRUM
+=======
+Scrum is a framework though which we build software products by following agile principles
+In scum it includes group of people called as scrum team which contains 4-8 people
+1)Product owner
+2)Scrum master
+3)Dev Team
+4)QA Team
+
+==============
+SCRUM TERMINOGIES
+===================
+1)User Story
+
+
+
+==========
+User Story  ==> A feature or module of a software
+===========
+Epic  ==> collection of user stories is called as Epic
+===========
+Product Backlog ==> Contains list of user stories, decided by product owner 
+============
+Sprint==> Period of time to complete user stories, decided by product owner and team 
+(2-4) weeks
+============
+(product owner)
+Sprint Planning Meeting ==>Meeting conducted with a team to define what can be delivered in the sprint
+and duration of the sprint
+=================
+Spring Backlog ==>List of committed stories by DEV/QA for specific sprints
+=================
+(scrum master)
+Scrum Meeting ==> Meeting conducted by scrum master everyday 12 min and also called as 
+Standup call/meetin/scrum call ) (yesterday,todays stories adn issures , blockers will be disscussed)
+=================
+(scrum master) (product owner)
+Sprint Retrospective Meeting==>Conduects meeting after every sprint.The entire team which
+inclues both scrum master and product owner will participate
+==================
+Story point==> Rough estimation of user stories will be given by Dev and QA
+===================
+Burndown Chart==> shows how much work remaining in the sprint,and is maintained by scrum master
+
+Sprint planning meeting -product owner (along with dev/qa)
+
+scrum meeting - scrum master (product owner,dev qa)
+
+sprint retrospective meeting - scrum master(product owner)
+
+burndown chart (scrum master)
+
+============
+AGILE MANAGEMENT TOOL
+=============
+
+
+
+
+
