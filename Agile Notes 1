@@ -15,6 +15,7 @@ DIFFERENT TYPES OF SDLC MODEL
 
 ==========
 AGILE
+It is a sdlc model where,
 1)The methodology which follows iterative and incremental approach
 ================
 Agile Principles
@@ -45,7 +46,7 @@ Disadvantages
 SCRUM
 =======
 Scrum is a framework though which we build software products by following agile principles
-In scum it includes group of people called as scrum team which contains 4-8 people
+In scrum it includes group of people called as scrum team which contains 4-8 people
 1)Product owner
 2)Scrum master
 3)Dev Team
@@ -72,10 +73,10 @@ Sprint==> Period of time to complete user stories, decided by product owner and 
 Sprint Planning Meeting ==>Meeting conducted with a team to define what can be delivered in the sprint
 and duration of the sprint
 =================
-Spring Backlog ==>List of committed stories by DEV/QA for specific sprints
+Spring Backlog ==>List of committed stories by DEV/QA for specific sprints after spring planning meeting
 =================
 (scrum master)
-Scrum Meeting ==> Meeting conducted by scrum master everyday 12 min and also called as 
+Scrum Meeting ==> Meeting conducted by scrum master everyday 15 min and also called as 
 Standup call/meetin/scrum call ) (yesterday,todays stories adn issures , blockers will be disscussed)
 =================
 (scrum master) (product owner)
@@ -85,7 +86,7 @@ inclues both scrum master and product owner will participate
 Story point==> Rough estimation of user stories will be given by Dev and QA
 ===================
 Burndown Chart==> shows how much work remaining in the sprint,and is maintained by scrum master
-
+===================
 Sprint planning meeting -product owner (along with dev/qa)
 
 scrum meeting - scrum master (product owner,dev qa)
@@ -94,11 +95,6 @@ sprint retrospective meeting - scrum master(product owner)
 
 burndown chart (scrum master)
 
-============
-AGILE MANAGEMENT TOOL
-=============
-*********** JIRA ******************** (TO FOLLOW AGILE PROCESS)
-FOR TEST MANAGEMENT PLUGIN TO ADD ********ZEPHYR***************
 
 
 
